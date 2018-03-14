@@ -40,3 +40,8 @@ $('#b').mouseover(function () {
     bNote.play();
 });
 
+var cNote = document.getElementById('cAudio');
+$('#c2').mouseover(function () {
+    cNote.currentTime = 0;
+    cNote.play();
+});
