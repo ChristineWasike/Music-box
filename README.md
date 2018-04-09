@@ -8,3 +8,6 @@ A project that will transform your browser into a simple instrument that you can
 
 1. Proficiency in HTML and CSS.
 2. Knowledgeable in JavaScript.
+
+***************
+Made with ♥ by Christine
